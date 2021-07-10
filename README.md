@@ -6,13 +6,6 @@ O projeto consiste em uma versão single player do jogo de cartas Super Trunfo,
 
 Esse projeto foi realizado para praticar CSS, HTML e JavaScript e foi proposto durante a [ImersãoDev](https://www.youtube.com/watch?v=W-QkHsPZJs4) organizada pela Alura.
 
-## Requisitos e execução da aplicação
-
-Para rodar a aplicação basta fazer o download dos arquivos do repositório, extraí-los e executar o arquivo nomeado como index, que abrirá em seu navegador padrão.
-
-Além disso é possível conferir o códio e o funcionamento online, na ferramenta Codepen: [https://codepen.io/clarans/pen/dyNJyjx?editors=0010](https://codepen.io/clarans/pen/dyNJyjx?editors=0010). 
-Basta clicar no botão "Run" na parte superior da tela.
-
 ## Screenshots e uso
 
 - Inicialmente, o primeiro botão habilitado é o que chama a função que sorteia as cartas. Além disso há o placar zerado.
